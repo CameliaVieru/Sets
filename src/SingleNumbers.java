@@ -16,6 +16,5 @@ public class SingleNumbers {
             return val;
         }
         return -1;
-     
     }
 }
